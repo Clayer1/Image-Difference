@@ -1,2 +1,2 @@
 # Image-Difference
-Uses OpenCV to spot the difference between two images.
+Uses OpenCV to highlight the difference between two images.
